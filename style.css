@@ -7,3 +7,24 @@
   ul {
     list-style-type: none;
   }
+  p {
+    width: 80%;
+    text-align: justify;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  h1 {
+      background-color: beige;
+      width: 210px;
+      color: red;
+  }
+  #la {
+    background-color: beige;
+    width: 130px;
+    color: red; 
+  }
+  #le {
+    background-color: beige;
+    width: 154px;
+    color: red;
+  }
